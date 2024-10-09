@@ -68,14 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-<img width="1428" alt="Screenshot 2024-10-09 at 5 07 21 PM" src="https://github.com/user-attachments/assets/cce135cb-ae04-42bf-be96-df7f2<img width="1440" alt="Sc
-<img width="1440" alt="Screenshot 2024-10-09 at 5 08 22 PM" src="https://github.com/user-attachments/assets/0b1da3fa-5635-4a49-bd70-74e62f330496">
-reenshot 2024-10-09 at 5 07 26 PM" src="https://github.com/user-attachments/assets/6d2fb38a-fcb1-425a-83ad-77c8b6b27b57"><img width="910" alt="Screenshot 2024-10-09 at 5 08 15 PM" src="https://github.com/user-attachments/assets/4540069a-2ed1-4368-9815-edb6bfbf2c76">
 
-c29d4ea"><img width="934" alt="Screenshot 2024-10-09 at 5 08 05 PM" src="https://github.com/user-attachments/assets/74f192bd-94e6-4f4b-a390-e406a8bb8678">
+here is some images 
+<img width="1428" alt="Screenshot 2024-10-09 at 5 07 21 PM" src="https://github.com/user-attachments/assets/063f0b71-3af0-4d91-94d0-08e97a40c55f"><img width="1440" alt="Screenshot 2024-10-09 at 5 08 22 PM" src="https://github.com/user-attachments/assets/00594b30-218d-4787-833a-1fcac169a3d9">
 
-<img width="1432" alt="Screenshot 2024-10-09 at 5 07 49 PM" src="https://github.c<img width="474" alt="Screenshot 2024-10-09 at 5 07 58 PM" src="https://github.com/user-attachments/assets/dbf16120-1d82-4ea2-b37a-dd14362694ad">
-om/user-attachments/assets/d8246f64-c53e-4d94-99ed-d4d55f2b8fe1">
-here is some images of the page 
+<img width="1440" alt="Screenshot 2024-10-09 at 5 07 26 PM" src="https://github.com/user-attachments/assets/1768acb4-5133-434d-b3ce-6775e8598f5d"><img width="474" alt="Screenshot 2024-10-09 at 5 07 58 PM" src="https://github.com/user-a<img width="910" alt="Screenshot 2024-10-09 at 5 08 15 PM" src="https://github.com/user-attachments/assets/3f45a43e-fc5b-4be2-8f19-1a82f8d346ae">
+ttachments/assets/4aa9479d-dea8-48f8-9807-cf017c5c2a9b"><img width="934" alt="Screenshot 2024-10-09 at 5 08 05 PM" src="https://github.com/user-attachments/assets/6c8286e9-e98b-4ba5-83fe-5e8bb0bf3901">
+
+
+<img width="1432" alt="Screenshot 2024-10-09 at 5 07 49 PM" src="https://github.com/user-attachments/assets/38e4830c-5cdb-4bb5-b1c3-0aa6cef4de66">
+
+
 # test-portal
-
