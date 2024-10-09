@@ -1,0 +1,27 @@
+.submit-summary {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .submit-summary h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .summary-item {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .summary-item p {
+    margin: 5px 0;
+  }
+  
+  .submit-summary button {
+    display: block;
+    margin: 20px auto 0;
+    padding: 10px 30px;
+  }
+  

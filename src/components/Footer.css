@@ -1,0 +1,15 @@
+.footer {
+    text-align: center;
+    padding: 15px 0;
+  }
+  
+  .social-media a {
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .social-media a:hover {
+    text-decoration: underline;
+  }
+  

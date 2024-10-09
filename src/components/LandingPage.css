@@ -1,0 +1,20 @@
+.landing-page {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .landing-page h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .landing-page p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+  }
+  
+  .landing-page button {
+    padding: 10px 30px;
+    font-size: 1rem;
+  }
+  
